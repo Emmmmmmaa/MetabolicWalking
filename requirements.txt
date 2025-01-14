@@ -1,0 +1,10 @@
+opencv-python
+pandas
+numpy
+ultralytics
+roboflow
+inference
+
+lap
+
+# torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
